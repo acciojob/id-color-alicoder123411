@@ -1,1 +1,26 @@
-/*  your css code here. If applicable */
+#box {
+  margin: 20px;
+  width: 100%;
+  background-color: yellow;
+  border: 3px solid green;
+}
+
+#box1 {
+  margin: 20px;
+  width: 100%;
+  background-color: red;
+  border: 3px solid black;
+}
+
+#box2 {
+  margin: 20px;
+  width: 100%;
+  background-color: green;
+  border: 3px solid yellow;
+}
+
+p {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 5px;
+}
